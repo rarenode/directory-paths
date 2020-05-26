@@ -1,0 +1,26 @@
+{
+  "name": "@rarenode/directory-paths",
+  "version": "1.0.0",
+  "description": "A node module to convert directory tree into javascript object with full path of a directory and your nested directories or the full path of each file at each nested directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rarenode/directory-paths.git"
+  },
+  "keywords": [
+    "directory",
+    "paths",
+    "directory-tree",
+    "directory-path",
+    "rarenode"
+  ],
+  "author": "Haider Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rarenode/directory-paths/issues"
+  },
+  "homepage": "https://github.com/rarenode/directory-paths#readme"
+}

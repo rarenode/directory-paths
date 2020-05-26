@@ -1,0 +1,6 @@
+# NPM Modules
+node_modules
+
+# Vscode
+.vscode
+/package-lock.json
